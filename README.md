@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ml">
 <head>
     <meta charset="UTF-8">
